@@ -83,7 +83,6 @@ Once we have everything set up, the main task for this lab is to make sure every
 
     ```
     Hello, world!
-    ```
 
 5.  Now we are going to make a small change to the program. (It’s okay if you don’t understand what we’re doing here yet—I don’t expect you to.) The lab1 project should contain a subdirectory `src`, which contains a C++ source file `lab1.cpp`. Using the project browser on the left, navigate to this file and open it. The entire text of the file should read:
 
